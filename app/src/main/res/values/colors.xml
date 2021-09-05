@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <item name="app_text" type="color">#141b37</item>
+    <item name="app_text_light" type="color">#FF76768D</item>
+    <color name="colorButtonPrimary">#3DA2F2</color>
+    <color name="colorLangToggle">#167DCE</color>
+    <color name="colorOtp">#038BDF</color>
+    <color name="colorIcon">#747373</color>
+    <color name="colorInActive">#707070</color>
+    <color name="colorBlue">#2A9EF9</color>
+    <color name="disable_color">#76768d</color>
+    <color name="colorRed">#FF7777</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteTransparent">#80ffffff</color>
+    <color name="colorWhiteAsh">#F5F5F5</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorLightGray">#DCDCDC</color>
+    <color name="colorGray">#808080</color>
+    <color name="colorDarkGray">#505050</color>
+    <color name="colorGreen">#008000</color>
+    <color name="colorYellow">#ffc20b</color>
+    <color name="colorOtpBackground">#B4B3BE</color>
+    <color name="transparent">#00000000</color>
+    <color name="background_color">#f9f9f9</color>
+    <drawable name="transparent">#00000000</drawable>
+    <color name="layoutBackgroundColor3">#E1E1E3</color>
+    <color name="mtrl_textinput_default_box_stroke_color">#fff</color>
+</resources>

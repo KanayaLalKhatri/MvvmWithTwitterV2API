@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tweets Example</string>
+    <string name="please_wait">Please wait ...</string>
+    <string name="alert_title">Alert !</string>
+    <string name="no">No</string>
+    <string name="ok">Ok</string>
+    <string name="exit_app">Exit App</string>
+    <string name="exit_screen_alert">Are you sure you want to exit?</string>
+    <string name="dialog_loading_please_wait">Please wait ...</string>
+    <string name="network_not_found">Network not found</string>
+    <string name="check_device_internet">Please Connect Your Device With Internet</string>
+    <string name="search_tweets">Search tweets</string>
+</resources>
